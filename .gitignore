@@ -125,3 +125,4 @@ ios/build/XCBuildData/f6b09c83279ed4b2c240fe2b502cbc6d-targetGraph.txt
 ios/build/XCBuildData/fbc1e4a3026f1953d543dacd8c45f255-buildRequest.json
 ios/build/XCBuildData/fbc1e4a3026f1953d543dacd8c45f255-targetGraph.txt
 .gitignore
+ios/Runner/GoogleService-Info.plist
